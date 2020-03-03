@@ -57,3 +57,91 @@ Local:
 Global: 
 
 
+
+Who are your constituents/clients/users? 
+
+(Create User Persona(s))
+- Customer (Household User):
+A:B Class (High to Middle Class)
+Family of 3:7
+Lives in Cityside
+Educated Family
+- Partner (Collectors)
+Age: 18:54 years old
+Gender: Any (Females Prefered)
+Education: No schooling completed (to) High school graduate, diploma or the equivalent
+Employment Status: Homeless (or) Out of work and looking for work (or) Refugee
+
+Click the following to see full Profile "Persona":
+
+shorturl.at/emAFG
+
+What are their pain points?
+- Customer (Household User):
+Regular collection of households’ waste
+- Partner (Collectors)
+Safety
+Secured Income
+Social Integration with society
+
+
+
+What is your product's value proposition?
+
+Offering a Shared Employment model to support disadvantaged segment
+Waste Traceability 
+Rewarding System to Platform Stakeholders
+Smart Recycling Bins (Provided by business partners)
+Marketing Channel for Business Partners
+
+
+What are your distribution and go-to-market strategy? 
+
+Pull/Push Strategy (Pulling Business Partners, Vendors, and Regulators/ Pushing the proposition to the masses)
+Hyper Markets and Warehouse Retails (Physical Smart Recycling Bins with Project Branding)
+Regulated Social Org. Premise
+Social Media (FB Communities, Twitter, YouTube)
+Marketing Channels of Business and Regulatory Partners
+
+
+
+Who can you partner with?
+
+Producers of Retail goods and FCMG ex. (Unilever, P&G, Kraft|Hienz, Cocacola..etc.)
+O&G Social Responsibility and Grants for Saving Environment
+Regulated Social Organizations relevant to the topic
+
+
+
+What are the risks associated with your solution?
+
+Personal if Customers abused Partners (Collectors) or Collectors conflicted with Customers!!!
+Trust issues between Household users and Collectors!
+Conservative decision making and unfriendly with Crypto acceptance by regulators
+Lack of funding!
+
+What is the impact of your solution? How will it be measured?
+
+Improve Homelessly people financial situation by offering a source of income
+Increase the Recycling materials sourcing per/household and per/city
+Decrease the number of abused homeless people due to lack of basic financial security
+Decrease the number of unrecycled waste per/tonn/city
+
+Define the technical specifications and development roadmap
+technical specifications:
+Mobile app based on React native
+Smart contract using Solidity 
+Consortium Blockchain network
+
+Development roadmap
+
+
+3rd - 5th March : Smart contracts Development
+3rd - 7th March: UX design 
+5th - 7th March: Blockchain network is up & running
+7th - 8th March: Blockchain integration
+7th - 14th March:  Mobile developement 
+14th - 16th March: Testing the app
+
+
+End of Week Deliverable  = User Persona, Pain Points, User Story
