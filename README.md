@@ -145,3 +145,16 @@ Development roadmap
 
 
 End of Week Deliverable  = User Persona, Pain Points, User Story
+
+
+Final submisstion 
+===============
+-  Video Demo
+
+https://www.youtube.com/watch?v=AVpPTq06O9U&feature=youtu.be
+- Pitch Deck 
+https://www.youtube.com/watch?v=nk1e10exN_E&feature=youtu.be
+https://docs.google.com/presentation/d/1WAM-MOfX2c2i1rluIEzS6EpeUkh7bxI4BgqVSdOQldI/edit
+- Other documents 
+https://docs.google.com/document/d/1cEzbJK4r29TOyrlnn4_hTPwMrdwZGFaYG3S1FrmIKFQ/edit?usp=sharing
+https://www.figma.com/file/TlgVVPyPcFHtHtlsT4Aazt/Untitled?node-id=0%3A1
